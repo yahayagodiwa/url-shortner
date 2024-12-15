@@ -8,7 +8,7 @@ const Footer = () => {
         <button className="bg-[#2acfcf] px-5 py-2 my-3 rounded-2xl hover:bg-[#69e9e9]"> Get Started</button>
         </div> 
 
-        <div className="flex justify-between bg-[#232127] text-gray-200 py-3 px-32">
+        <div className="flex flex-col md:flex-row text-center gap-3 justify-between bg-[#232127] text-gray-200 py-3 px-5 md:px-32">
         <h2 className="text-xl font-semibold">Link<span className="text-[#2acfcf] ">Cut</span> </h2>
             <ul>
                 <h3 className="text-lg font-semibold">Features

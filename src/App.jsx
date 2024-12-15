@@ -1,9 +1,8 @@
 import NavBar from "./components/NavBar"
-
-import Main from "./components/Main"
 import { Hero } from "./components/Hero"
 import Stats from "./components/Stats"
 import Footer from "./components/Footer"
+import Main from "./components/MainApi"
 
 
 function App() {
